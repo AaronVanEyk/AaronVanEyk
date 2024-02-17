@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AaronVanEyk
-- 👀 I’m interested in Python, Javascript, IOT & Web Development
+- 👀 I’m interested in RF Communications, Python, Javascript, IOT & Web Development
 - 🌱 I’m currently learning Python, Javascript, C/C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
