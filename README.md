@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AaronVanEyk
-- 👀 I’m interested in RF Communications, Python, Javascript, IOT & Web Development
-- 🌱 I’m currently learning Python, Javascript, C/C++
-- 📫 How to reach me ...
+- 👋 Hi, I’m @AaronVanEyk.
+- 👀 I’m interested in Engineering, Amateur Radio, Meteorology & GIS.
+- 🌱 I’m currently learning Python, Javascript, Web Development & Embedded System.
+
 
 <!---
 AaronVanEyk/AaronVanEyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
